@@ -1,3 +1,3 @@
 # nodejs-dependency-injection-training
 
-Api using TSyringe for dependency injection following RocketSeat Node.js bootcamp classes.
+Add swagger docs following RocketSeat Node.js bootcamp classes.
